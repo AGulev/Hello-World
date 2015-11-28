@@ -10,14 +10,14 @@ nme 5.5.7
 
 Result:
 > - Unity
- - apk 18.9 Mb
- - ipa 10.4 Mb
+ - apk 9.8 Mb
+ - ipa 10.4 Mb (unpacked binary is 19.5 Mb)
 - Adobe Air
  - apk 12.6 Mb
- - ipa 6.8 Mb
+ - ipa 6.8 Mb (unpacked binary is 15.9 Mb)
 - Haxe openfl
  - apk 3.2Mb
- - ipa 4.2 Mb
+ - ipa 4.2 Mb (unpacked binary is 10.2 Mb)
 - Haxe nme
  - apk 2.6 Mb
- - ipa 3.4 Mb
+ - ipa 3.4 Mb (unpacked binary is 9 Mb)
